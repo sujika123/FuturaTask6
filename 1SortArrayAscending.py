@@ -1,5 +1,5 @@
 # Initialize array
-arr = [5, 2, 8, 7, 1];
+arr = [5, 2, 8, 7, 1]
 temp = 0;
 
 # Displaying elements of original array
